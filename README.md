@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steins07&label=Profile%20views&color=0e75b6&style=flat" alt="steins07" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Reactjs / Nextjs**
 
 - 📝 I sometimes write articles on [https://medium.com/@sromus498](https://medium.com/@sromus498)
 
