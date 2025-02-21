@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Romus Shrestha</h1>
 <h3 align="center">A passionate learner and a tech enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=steins07&label=Profile%20views&color=0e75b6&style=flat" alt="steins07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=romusshrestha&label=Profile%20views&color=0e75b6&style=flat" alt="romusshrestha" /> </p>
 
 - 🌱 I’m currently learning **Reactjs / Nextjs**
 
@@ -84,7 +84,7 @@
     </p>
     <h3>Github Statistics</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=steins07&show_icons=true&locale=en&layout=compact" alt="steins07" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romusshrestha&show_icons=true&locale=en&layout=compact" alt="romusshrestha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=steins07&show_icons=true&locale=en" alt="steins07" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romusshrestha&show_icons=true&locale=en" alt="romusshrestha" /></p>
 
