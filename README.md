@@ -86,5 +86,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romusshrestha&show_icons=true&locale=en&layout=compact" alt="romusshrestha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romusshrestha&show_icons=true&locale=en" alt="romusshrestha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-virid-iota-18.vercel.app/api?username=romusshrestha&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="romusshrestha" /></p>
 
