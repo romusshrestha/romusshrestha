@@ -56,7 +56,7 @@
 </a>
 
 <a href="https://nextjs.org" target="_blank" rel="noreferrer">
-  <img src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="nextjs" width="40" height="40" />
+  <img src="https://vercel.com/vc-ap-b3331f/_next/static/immutable/media/nextjs-logotype-dark.3h4a2z2v_dkod.svg" alt="nextjs" width="40" height="40" />
 </a>
   <hr>
 <h4>Database</h4>
